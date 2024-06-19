@@ -1,0 +1,12 @@
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 600px;
+    margin: 0 auto;
+}
+button{
+    margin:10px 0;
+    max-width: 150px;
+}
