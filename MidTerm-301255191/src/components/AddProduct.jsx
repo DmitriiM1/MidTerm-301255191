@@ -1,3 +1,8 @@
+/*
+name: Dmitrii Mitin,
+id: 301255191,
+date: June18
+*/
 import React, { useState } from 'react';
 import "./AddProduct.css";
 import Box from '@mui/material/Box';

@@ -1,3 +1,8 @@
+/*
+name: Dmitrii Mitin,
+id: 301255191,
+date: June18
+*/
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'

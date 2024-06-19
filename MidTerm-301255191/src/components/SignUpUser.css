@@ -1,0 +1,19 @@
+/*
+name: Dmitrii Mitin,
+id: 301255191,
+date: June18
+*/
+form{
+
+}
+
+label{
+text-align: left;
+}
+
+input{
+    border-radius: 10px;
+    height: 30px;
+    background-color: rgba(139, 139, 139, 0.671);
+}
+
